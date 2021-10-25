@@ -17,7 +17,7 @@ export default function App() {
         </div>
 
         <div className="bio">
-        I am farza and I worked on self-driving cars so that's pretty cool right? Connect your Ethereum wallet and wave at me!
+        Heyo! Fawaz here, wave at me a I dare you, I double-dare you!
         </div>
 
         <button className="waveButton" onClick={wave}>
