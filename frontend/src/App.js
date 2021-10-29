@@ -17,7 +17,7 @@ export default function App() {
         </div>
 
         <div className="bio">
-        Heyo! Fawaz here, wave at me a I dare you, I double-dare you!
+        Heyo! Fawaz here, wave at me I dare you, I double-dare you!
         </div>
 
         <button className="waveButton" onClick={wave}>
